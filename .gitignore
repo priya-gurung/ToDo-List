@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build or production directories (if you add them later)
+dist/
+build/
+
+# Optional: database dumps or temporary SQL files
+*.sql
+*.sqlite
+
+solution.js
+queries.sql
